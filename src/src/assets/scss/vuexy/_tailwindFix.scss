@@ -1,0 +1,14 @@
+/*=========================================================================================
+    File Name: _tailwindFixes.scss
+    Description: partial- Tailwind Fixes
+    ----------------------------------------------------------------------------------------
+    Item Name: Tripcarte - PWA
+      Author: Tripcarte.Asia
+    Author URL: https://tripcarte.asia/
+==========================================================================================*/
+
+
+// button fix
+button:focus {
+    outline: none;
+}
